@@ -10,3 +10,6 @@ For spacial cell type prediction using spatial transcriptomics data, cell2locati
 
 B. **scRNA-seq analysis**
 To conduct scRNA dat analysis scRNA-seq script can be followed togtehr with the kNN script for label transfer using Hypomap, scRNA-seq reference.
+
+C. **cFos LSFM analysis**
+To conduct the cFos LSFM analysis: (1) preprocessing applied, (2) cfos LSFM downscaling applied, (3) cfos LSFM integration with spatila predictions applied.
